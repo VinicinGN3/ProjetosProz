@@ -1,0 +1,10 @@
+var = "Você tem um cacete irado"
+print ("Esta é a primeira aparição da variável")
+print(var)
+print("Esta é a segunda aparição da variável")
+print (var)
+print ("Esta é a terceira aparição da variável")
+print(var)
+print ("Esta é a quarta aparição da variável")
+print (var)
+print ("Você só definiu o valor da variável um vez e ela apareceu diversas vezes")
