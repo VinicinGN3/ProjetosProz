@@ -1,4 +1,4 @@
-var = "Você tem um cacete irado"
+var = "Heelo, World"
 print ("Esta é a primeira aparição da variável")
 print(var)
 print("Esta é a segunda aparição da variável")
